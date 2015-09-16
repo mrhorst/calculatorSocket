@@ -1,3 +1,9 @@
+#Author: Matheus Horst - mhorst31@gmail.com
+
+# This is a very simple calculator using sockets
+# Learning purpose only. This was a homework for
+# the Computer Networks class at ELTE - Hungary
+
 require 'socket'
 
 Port = 7777
